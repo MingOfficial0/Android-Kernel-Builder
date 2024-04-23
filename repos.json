@@ -3,7 +3,7 @@
       "name": "KSU-R5PP",
       "repo": "https://github.com/Blackmanx/kernel_realme_sm8250",
       "branch": "T-Backup",
-      "device": "odin"
+      "device": "RE546F"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -38,7 +38,7 @@
     "use": true,
     "release": true,
     "repo": "https://github.com/chilan666/AnyKernel3",
-    "branch": "cupida"
+    "branch": "RE546F"
   }
 }
 ]
